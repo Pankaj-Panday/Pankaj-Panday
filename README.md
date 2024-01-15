@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pankaj-panday.github.io/Portfolio/](https://pankaj-panday.github.io/Portfolio/)
 
-- 💬 Ask me about **javascript, react.**
+- 💬 Ask me about **javascript, css.**
 
 - 📫 How to reach me **ppanday064@gmail.com**
 
