@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-panday&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-panday" /> </p>
 
-- 🌱 I’m currently learning **full stack web development to build awesome web apps.**
+- 🌱 I’m currently learning **full stack web development (MERN stack).**
 
 - 👨‍💻 All of my projects are available at [https://pankaj-panday.github.io/Portfolio/](https://pankaj-panday.github.io/Portfolio/)
 
-- 💬 Ask me about **javascript, css.**
+- 💬 Ask me about **javascript**
 
 - 📫 How to reach me **ppanday064@gmail.com**
 
