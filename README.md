@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankaj-panday&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-panday" /> </p>
 
-- 🌱 Currently learning **full stack web development using Next.js**
+- 🌱 Skilled in Next.js and currently learning **Mobile App development using React-Native**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pankaj-one.vercel.app/](https://portfolio-pankaj-one.vercel.app/)
 
